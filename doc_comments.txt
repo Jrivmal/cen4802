@@ -1,1 +1,9 @@
-
+Fibonacci Sequence
+Return the nth fibonacci sequence
+If n=1 of less, return n
+Recursively bring the function fibonacci
+Main method
+Declare variable n
+Dreate scanner class object
+Get value of n
+Print nth number in sequence
