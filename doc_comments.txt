@@ -1,9 +1,14 @@
-Fibonacci Sequence
-Return the nth fibonacci sequence
-If n=1 of less, return n
-Recursively bring the function fibonacci
-Main method
-Declare variable n
-Dreate scanner class object
-Get value of n
-Print nth number in sequence
+/**
+	 * 
+	 * @param n - the nth fibonacci sequence
+	 * @param (n <=1) - if n=1 or fewer, then return n
+     * recursively bring the function fibonacci
+       * main method
+       * @param args
+    	 * param n - declare variable n
+    	   * create scanner class object
+    	   * get value of n
+    	   * @return - print nth number in sequence
+    	*/
+     * @return - print nth number in sequence
+     */
